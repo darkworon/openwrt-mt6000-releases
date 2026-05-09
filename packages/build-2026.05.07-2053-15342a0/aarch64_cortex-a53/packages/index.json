@@ -1,1 +1,0 @@
-{"version": 2, "architecture": "aarch64_cortex-a53", "packages": {"adguardhome": "0.107.73-r3", "htop": "3.4.1-r1", "iperf3": "3.20-r1", "libiperf3": "3.20-r1", "libminiupnpc": "2.2.8-r1", "libnatpmp": "20230423-r2", "zerotier": "1.16.0-r2"}}
